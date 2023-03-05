@@ -8,7 +8,7 @@
 - 💬 Send me a message on LinkedIn!
 - 😄 He/Him
 <a href="[https://linkedin.com/in/rishavanand](https://www.linkedin.com/in/cheuk-hang-ng-nch/)" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /><a/>
 
 <!--
 **howardng19/howardng19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
