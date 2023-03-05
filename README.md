@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, welcome👋
 
+- 🔭 Looking out for opportunities to start my career
+- 🌱 Working on a comprehensive skill set
+- 👯 International graduate
+- 💬 Send me a message on LinkedIn!
+- 😄 He/Him
 <!--
 **howardng19/howardng19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
