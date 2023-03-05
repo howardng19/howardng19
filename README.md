@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=howardng19&theme=swift&show_icons=true)
-
+<br/>
 
 ### My Skill Set  
 
@@ -52,3 +50,7 @@ Here are some ideas to get you started:
 </div>
 
 </td><td valign="top">
+  
+<br/>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=howardng19&theme=swift&show_icons=true)
